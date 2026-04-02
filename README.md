@@ -8,7 +8,7 @@ steps~
 Conclusion ~ 
 The analysis shows important trends in school dropout rates
 over the years and helps in understanding key factors.
-Such insights can  help in Region-wise comparative analysis and in Predicting dropout rates of students.
+Such insights can  help in Region-wise comparative analysis and in Predicting dropout rates.
 
 
 Created by~
